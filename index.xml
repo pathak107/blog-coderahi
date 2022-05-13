@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coderahi</title>
+    <link>https://blog.coderahi.in/</link>
+    <description>Recent content on Coderahi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 May 2022 23:16:37 +0530</lastBuildDate>
+    
+	<atom:link href="https://blog.coderahi.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About_me</title>
+      <link>https://blog.coderahi.in/page/about_me/</link>
+      <pubDate>Sat, 14 May 2022 00:06:41 +0530</pubDate>
+      
+      <guid>https://blog.coderahi.in/page/about_me/</guid>
+      <description>THis is about me section </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://blog.coderahi.in/about/</link>
+      <pubDate>Fri, 13 May 2022 23:16:37 +0530</pubDate>
+      
+      <guid>https://blog.coderahi.in/about/</guid>
+      <description>This is a custom summary and does &lt;em&gt;not&lt;/em&gt; appear in the post.</description>
+    </item>
+    
+    <item>
+      <title>Electron Js Basics</title>
+      <link>https://blog.coderahi.in/posts/learn_electron/</link>
+      <pubDate>Fri, 13 May 2022 23:16:37 +0530</pubDate>
+      
+      <guid>https://blog.coderahi.in/posts/learn_electron/</guid>
+      <description>This is a custom summary and does &lt;em&gt;not&lt;/em&gt; appear in the post.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://blog.coderahi.in/posts/my-first-post/</link>
+      <pubDate>Fri, 06 May 2022 22:22:28 +0530</pubDate>
+      
+      <guid>https://blog.coderahi.in/posts/my-first-post/</guid>
+      <description>My First Post THis is my first post so I&amp;rsquo;m really excited.</description>
+    </item>
+    
+  </channel>
+</rss>

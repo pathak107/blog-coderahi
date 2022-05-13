@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Coderahi</title>
+    <link>https://blog.coderahi.in/page/</link>
+    <description>Recent content in Pages on Coderahi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 May 2022 00:06:41 +0530</lastBuildDate>
+    
+	<atom:link href="https://blog.coderahi.in/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About_me</title>
+      <link>https://blog.coderahi.in/page/about_me/</link>
+      <pubDate>Sat, 14 May 2022 00:06:41 +0530</pubDate>
+      
+      <guid>https://blog.coderahi.in/page/about_me/</guid>
+      <description>THis is about me section </description>
+    </item>
+    
+  </channel>
+</rss>
